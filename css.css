@@ -1,4 +1,6 @@
-#coupon{margin: 0px; background: #fec03c;line-height: 0;}
+#preview img{width: 1px;}
+
+#coupon{margin: 0; background: #fec03c; line-height: 0;}
 .a{width: 100%;}
 .b1{width: 12.93%;}
 .b2{width: 22.67%;}

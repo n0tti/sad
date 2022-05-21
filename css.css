@@ -3,7 +3,8 @@
 #preview img{width: 0;}
 
 #coupon{background: #fec03c;}
-#coupon2{background: #000000;}
+#coupon2{background: #cb9930;}
+#coupon2 div{background: #000000;}
 
 #coupon2 img{opacity:0.8;}
 #coupon2 .r{opacity:1;}

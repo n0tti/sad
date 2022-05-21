@@ -1,10 +1,14 @@
-#menu{margin: 0; line-height: 0;}
+#menu, #coupon, #coupon2{margin: 0; line-height: 0;}
 
 #preview img{width: 0;}
 
-#coupon{margin: 0; background: #fec03c; line-height: 0;}
+#coupon{background: #fec03c;}
+#coupon2{background: #000000;}
 
-.a{width: 100%;}
+#coupon2 img{opacity:0.8;}
+#coupon2 .r{opacity:1;}
+
+.a, .r{width: 100%;}
 
 .bl{float:left;width: 42.8%;}
 .b1{width: 28.35%;}

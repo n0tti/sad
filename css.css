@@ -1,0 +1,47 @@
+#menu, #coupon, #coupon2{margin: 0; line-height: 0;}
+
+#preview img{width: 0;}
+
+#coupon{background: #fec03c;}
+#coupon2{background: #cb9930;}
+#coupon2 #all{background: #000000;}
+
+#coupon2 img{opacity: 0.8;}
+#coupon2 .r{opacity: 1;}
+
+.a, .r{width: 100%;}
+
+.bl{float:left;width: 42.8%;}
+.b1{width: 28.35%;}
+.b2{width: 56.07%;}
+.b3{width: 15.58%;}
+.br{float:right;width: 57.2%;}
+.b41, .b43{width: 100%;}
+.b421{width: 76.22%;}
+.b422{width: 23.78%;}
+
+.d1, .f1{width: 42.8%;}
+.d2{width: 46.27%;}
+.d3{width: 10.93%;}
+
+.f2{width: 25.72%;}
+.f3{width: 31.47%;}
+
+.h1, .h3, .l1, .l3{width: 10.8%;}
+.h2, .l2{width: 78.4%;}
+
+.j1{width: 30.79%;}
+.j2{width: 36.27%;}
+.j3{width: 32.93%;}
+
+.pl{float:left;width: 42.53%;}
+.p1{width: 17.87%;}
+.p2{width: 72.1%;}
+.p3{width: 10.03%;}
+.pr{float:right;width: 57.47%;}
+.p41, .p43, .p45{width: 100%;}
+.p421{width: 76.57%;}
+.p422{width: 23.43%;}
+.p441{width: 11.13%;}
+.p442{width: 31.79%;}
+.p443{width: 57.08%;}

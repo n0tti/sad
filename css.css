@@ -31,7 +31,8 @@
 .h2, .l2{width: 78.4%;}
 
 .j1{width: 30.79%;}
-.j2{width: 36.27%;background-image: url('img/j2_bg.png');background-size: contain;}
+.j2{display: inline-block;width: 36.27%;background-image: url('img/j2_bg.png');background-size: contain;}
+.j2 img{width: 100%;}
 .j3{width: 32.93%;}
 
 .pl{float:left;width: 42.53%;}

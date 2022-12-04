@@ -7,38 +7,34 @@
 #coupon2 #all{background: #000000;}
 
 #coupon2 img{opacity: 0.8;}
-#coupon2 .r{opacity: 1;}
+#coupon2 .l{opacity: 1;}
 
-.a, .r{width: 100%;}
+.a, .c, .e, .g, .i, .k, .l, .m, .o{width: 100%;}
 
 .bl{float:left;width: 42.8%;}
-.b1{width: 28.35%;}
-.b2{width: 56.07%;}
-.b3{width: 15.58%;}
+.b1{width: 24.92%;}
+.b2{width: 62.31%;}
+.b3{width: 12.77%;}
 .br{float:right;width: 57.2%;}
 .b41, .b43{width: 100%;}
 .b421{width: 76.22%;}
 .b422{width: 23.78%;}
 
-.d1, .f1{width: 42.8%;}
-.d2{width: 46.27%;}
-.d3{width: 10.93%;}
+.d1{width: 68.53%;}
+.d2{width: 20.67%;}
+.d3, .f3, .j3, .p3{width: 10.8%;}
 
-.f2{width: 25.72%;}
-.f3{width: 31.47%;}
+.f1, .h1{width: 42.8%;}
+.f2{width: 46.4%;}
 
-.h1, .h3, .l1, .l3{width: 10.8%;}
-.h2, .l2{width: 78.4%;}
+.h2{width: 25.73%;}
+.h3{width: 31.47%;}
 
-.j1{width: 30.79%;}
-.j2{width: 36.27%;}
-.j3{width: 32.93%;}
+.j1, .p1{width: 10.67%;}
+.j2, .p2{width: 78.53%;}
 
-.pl{float:left;width: 42.53%;}
-.p1{width: 17.87%;}
-.p2{width: 72.1%;}
-.p3{width: 10.03%;}
-.pr{float:right;width: 57.47%;}
-.p41, .p43{width: 100%;}
-.p421{width: 75.87%;}
-.p422{width: 24.13%;}
+.n1{width: 30.8%;}
+.n2{width: 36.27%;}
+.n3{width: 32.93%;}
+
+#menu .b421{width: 100%;}

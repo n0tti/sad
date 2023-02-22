@@ -15,7 +15,7 @@
 .b1{width: 24.92%;}
 .b2{width: 62.31%;}
 .b3{width: 12.77%;}
-.br{float:right;width: 57.2%;}
+.br{float: right; width: 57.2%;}
 .b41, .b43{width: 100%;}
 .b421{width: 76.22%;}
 .b422{width: 23.78%;}
@@ -37,5 +37,5 @@
 .n2{width: 36.27%;}
 .n3{width: 32.93%;}
 
-#menu .b2{width: 18.86%;margin: 3% auto 3% auto;}
-#menu .b421{width: 81.14%;margin: 3% auto 3% auto;}
+#menu .b2{width: 17.73%;margin: 3% 0 3% 3%;}
+#menu .b421{width: 76.27%;margin: 3% 3% 3% 0;}
